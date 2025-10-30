@@ -1,9 +1,8 @@
-@"
-# 🎮 RehabGaming - Gamified Physiotherapy 
+RehabGaming - Gamified Physiotherapy 
 
 An interactive rehabilitation and physiotherapy platform that uses computer vision and gamification to make exercises engaging and trackable.
 
-## ✨ Features
+##  Features
 
 - 🎯 Real-time pose detection using MediaPipe
 - 🏋️ Exercise tracking (Arm Raise, Knee Bend, Shoulder Roll)
@@ -12,7 +11,7 @@ An interactive rehabilitation and physiotherapy platform that uses computer visi
 - 📈 Interactive dashboard with Streamlit
 - 💾 Export session data to CSV
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repository:
 \`\`\`bash
@@ -40,7 +39,7 @@ streamlit run demos/GamifiedDashboard.py
 \`\`\`
 
 ### Run Individual Demos:
-\`\`\`bash
+
 # Pose detection demo
 python demos/PoseDetectionDemo.py
 
@@ -75,4 +74,5 @@ This project is licensed under the MIT License.
 - MediaPipe by Google
 - Streamlit Community
 "@ | Out-File -FilePath README.md -Encoding UTF8
+
 

@@ -1,4 +1,4 @@
-RehabGaming - Gamified Physiotherapy 
+## RehabGaming - Gamified Physiotherapy 
 
 An interactive rehabilitation and physiotherapy platform that uses computer vision and gamification to make exercises engaging and trackable.
 

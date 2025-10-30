@@ -51,26 +51,7 @@ python demos/ArmRaise_Webcam.py
 python demos/AnalyticsDemo.py
 \`\`\`
 
-## 📁 Project Structure
 
-\`\`\`
-RehabGaming/
-│
-├── modules/
-│   ├── __init__.py
-│   ├── PoseModule.py          # Pose detection engine
-│   ├── ArmRaise.py             # Arm raise exercise logic
-│   └── ExerciseAnalytics.py    # Analytics and progress tracking
-│
-├── demos/
-│   ├── GamifiedDashboard.py    # Main Streamlit dashboard
-│   ├── PoseDetectionDemo.py    # Pose detection test
-│   ├── ArmRaise_Webcam.py      # Arm raise demo
-│   └── AnalyticsDemo.py        # Analytics demo
-│
-├── requirements.txt
-└── README.md
-\`\`\`
 
 ## 🛠️ Technologies Used
 
@@ -94,3 +75,4 @@ This project is licensed under the MIT License.
 - MediaPipe by Google
 - Streamlit Community
 "@ | Out-File -FilePath README.md -Encoding UTF8
+

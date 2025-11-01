@@ -1,4 +1,4 @@
-@"
+
 # RehabGaming - Gamified Physiotherapy Dashboard
 
 An interactive rehabilitation and physiotherapy platform that uses computer vision and gamification to make exercises engaging and trackable.
@@ -26,4 +26,5 @@ This project is licensed under the MIT License.
 - MediaPipe by Google
 - Streamlit Community
 "@ | Out-File -FilePath README.md -Encoding UTF8
+
 
